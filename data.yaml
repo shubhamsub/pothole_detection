@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/Colab Notebooks/Pothole/train/images
+val: /content/drive/MyDrive/Colab Notebooks/Pothole/val/images
+
+nc: 1
+
+# Classes
+names: ['pothole']
